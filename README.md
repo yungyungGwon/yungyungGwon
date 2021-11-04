@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yungyoung%20Gwon&fontSize=90)
 
-### 👋🏻 Hi! I'm web front-end developer.👩🏻‍💻
+### 👋🏻 Hi! I'm web Frontend developer.👩🏻‍💻
 
 <!-- ### Hi there 👋 -->
 
