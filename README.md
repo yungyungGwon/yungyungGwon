@@ -2,6 +2,8 @@
 
 ### 👋🏻 Hi! I'm Frontend developer.👩🏻‍💻
 
+#### Language and Tool🛠
+
 <!-- ### Hi there 👋 -->
 
 <!--
